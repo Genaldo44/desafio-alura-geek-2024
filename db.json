@@ -1,0 +1,210 @@
+{
+  "Produtos": [
+    {
+      "id": "0",
+      "nome": "Caneca Stormtrooper",
+      "valor": "90,00",
+      "imagem": "./img/stormtrooper.png"
+    },
+    {
+      "id": "1",
+      "nome": "Game Boy Classic",
+      "valor": "260,00",
+      "imagem": "./img/gameboy.png"
+    },
+    {
+      "id": "3",
+      "nome": "Funko POP Curinga",
+      "valor": "160,00",
+      "imagem": "./img/funkocuringa.png"
+    },
+    {
+      "id": "4",
+      "nome": "Funko POP Batman",
+      "valor": "270,00",
+      "imagem": "./img/funkobatman.png"
+    },
+    {
+      "id": "6",
+      "nome": "Caneca Yoda",
+      "valor": "110,00",
+      "imagem": "./img/canecayoda.png"
+    },
+    {
+      "id": "7",
+      "nome": "Caneca Darth Vader",
+      "valor": "120,00",
+      "imagem": "./img/canecadv.png"
+    },
+    {
+      "id": "8",
+      "nome": "Caneca Batman",
+      "valor": "130,00",
+      "imagem": "./img/canecabatman.png"
+    },
+    {
+      "id": "9",
+      "nome": "Caneca Curinga",
+      "valor": "130,00",
+      "imagem": "./img/canecacuringa.png"
+    },
+    {
+      "id": "10",
+      "nome": "Nintendo Switch",
+      "valor": "2230,00",
+      "imagem": "./img/nintendo.png"
+    },
+    {
+      "id": "11",
+      "nome": "Funko POP Arlequina",
+      "valor": "190,00",
+      "imagem": "./img/funkoarlekina.png"
+    },
+    {
+      "id": "12",
+      "nome": "Funko POP Robin",
+      "valor": "100,00",
+      "imagem": "./img/canecabatman.png"
+    },
+    {
+      "id": "3353",
+      "nome": "Camiseta Super Mario",
+      "valor": "150,00",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a"
+    },
+    {
+      "id": "7f64",
+      "nome": "Garrafa Garfield",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2olfEb4CaJEseKswVSfjgbJ7gSDeHUWbgtc9jLnQXQ&s"
+    },
+    {
+      "id": "24d0",
+      "nome": "caneta pokemon",
+      "valor": "65,00",
+      "imagem": "https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211"
+    },
+    {
+      "nome": "Camiseta Avatar",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPTnCBHKf_r57XxPmN8cqgRr7SV9vkhAfsoTDG-HhQpQ&s",
+      "id": "fnzJA3h"
+    },
+    {
+      "nome": "Funko Pop MIB",
+      "valor": "280,00",
+      "imagem": "https://4464.cdn.simplo7.net/static/4464/sku/pop-funko-pop-funko-mib-homens-de-preto-agente-j-e-fran",
+      "id": "mjByC2T"
+    },
+    {
+      "nome": "Funko Pop MIB",
+      "valor": "280,00",
+      "imagem": "https://lojaarenagames.com.br/wp-content/uploads/2022/08/Funko-Pop-Mib-Edgar-717-Homens-De-Preto-Mov",
+      "id": "fIa98SX"
+    },
+    {
+      "nome": "Camiseta One Piece",
+      "valor": "180,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KhLrjXXtnHF-DuEYDHEbuGBQb0s9wOAtXYdCwQ8Ywg&s",
+      "id": "MFw5otz"
+    },
+    {
+      "id": "6eea",
+      "nome": "Camiseta Super Mario",
+      "valor": "150,00",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false
+    },
+    {
+      "id": "85d0",
+      "nome": "Holmes",
+      "valor": "100",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false
+    },
+    {
+      "id": "9b6f",
+      "nome": "Camisa Naruto",
+      "valor": "150,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBUQERAVEBAQEBAVFRUQEhAPEBUQFRUWFhUVF",
+      "status": false
+    },
+    {
+      "id": "7f15",
+      "nome": "Genaldo Lopes",
+      "valor": "119,99",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBAQEBANEBAVDRIbDQ0NDRsQEA4WIB0iIiAdH",
+      "status": false
+    },
+    {
+      "id": "997c",
+      "nome": "camisa",
+      "valor": "19,90",
+      "imagem": "caneca-arlequina.png",
+      "status": false
+    },
+    {
+      "id": "9aaf",
+      "nome": "Garrafa Garfield",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2olfEb4CaJEseKswVSfjgbJ7gSDeHUWbgtc9jLnQXQ&s",
+      "status": false
+    },
+    {
+      "id": "4611",
+      "nome": "Camisa Mario",
+      "valor": "120.00",
+      "imagem": "\"https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a\"",
+      "status": false
+    },
+    {
+      "id": "7ccb",
+      "nome": "Camisa Mario",
+      "valor": "240",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false
+    },
+    {
+      "id": "d0c1",
+      "nome": "naruto",
+      "valor": "120",
+      "imagem": "https://www.adorocinema.com/series/serie-3473/video-19567485/",
+      "status": false
+    },
+    {
+      "id": "16ac",
+      "nome": "Oii",
+      "valor": "32,20",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false
+    },
+    {
+      "id": "f32d",
+      "nome": "Notebook",
+      "valor": "19,90",
+      "imagem": "https://gmlmidiaweb.com.br/wp-content/uploads/2021/09/Website-Redesign-More-Than-Just-Aesthetics@2x-",
+      "status": false
+    },
+    {
+      "id": "6e08",
+      "nome": "Caneta Pokemon",
+      "valor": "19,90",
+      "imagem": "https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211",
+      "status": false
+    },
+    {
+      "id": "77da",
+      "nome": "Genaldo",
+      "valor": "19,90",
+      "imagem": "https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211",
+      "status": false
+    },
+    {
+      "id": "4b88",
+      "nome": "Caneta Pohemon",
+      "valor": "19,90",
+      "imagem": "https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211",
+      "status": false
+    }
+  ]
+}
